@@ -1,0 +1,13 @@
+C:\VS code\aula06-jogo-forca\obj\Debug\netcoreapp3.1\aula06-jogo-forca.csprojAssemblyReference.cache
+C:\VS code\aula06-jogo-forca\obj\Debug\netcoreapp3.1\aula06-jogo-forca.AssemblyInfoInputs.cache
+C:\VS code\aula06-jogo-forca\obj\Debug\netcoreapp3.1\aula06-jogo-forca.AssemblyInfo.cs
+C:\VS code\aula06-jogo-forca\obj\Debug\netcoreapp3.1\aula06-jogo-forca.csproj.CoreCompileInputs.cache
+C:\VS code\aula06-jogo-forca\bin\Debug\netcoreapp3.1\aula06-jogo-forca.exe
+C:\VS code\aula06-jogo-forca\bin\Debug\netcoreapp3.1\aula06-jogo-forca.deps.json
+C:\VS code\aula06-jogo-forca\bin\Debug\netcoreapp3.1\aula06-jogo-forca.runtimeconfig.json
+C:\VS code\aula06-jogo-forca\bin\Debug\netcoreapp3.1\aula06-jogo-forca.runtimeconfig.dev.json
+C:\VS code\aula06-jogo-forca\bin\Debug\netcoreapp3.1\aula06-jogo-forca.dll
+C:\VS code\aula06-jogo-forca\bin\Debug\netcoreapp3.1\aula06-jogo-forca.pdb
+C:\VS code\aula06-jogo-forca\obj\Debug\netcoreapp3.1\aula06-jogo-forca.dll
+C:\VS code\aula06-jogo-forca\obj\Debug\netcoreapp3.1\aula06-jogo-forca.pdb
+C:\VS code\aula06-jogo-forca\obj\Debug\netcoreapp3.1\aula06-jogo-forca.genruntimeconfig.cache

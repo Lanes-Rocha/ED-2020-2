@@ -1,0 +1,13 @@
+C:\VS code\w3scool\bin\Debug\netcoreapp3.1\w3scool.exe
+C:\VS code\w3scool\bin\Debug\netcoreapp3.1\w3scool.deps.json
+C:\VS code\w3scool\bin\Debug\netcoreapp3.1\w3scool.runtimeconfig.json
+C:\VS code\w3scool\bin\Debug\netcoreapp3.1\w3scool.runtimeconfig.dev.json
+C:\VS code\w3scool\bin\Debug\netcoreapp3.1\w3scool.dll
+C:\VS code\w3scool\bin\Debug\netcoreapp3.1\w3scool.pdb
+C:\VS code\w3scool\obj\Debug\netcoreapp3.1\w3scool.csprojAssemblyReference.cache
+C:\VS code\w3scool\obj\Debug\netcoreapp3.1\w3scool.AssemblyInfoInputs.cache
+C:\VS code\w3scool\obj\Debug\netcoreapp3.1\w3scool.AssemblyInfo.cs
+C:\VS code\w3scool\obj\Debug\netcoreapp3.1\w3scool.csproj.CoreCompileInputs.cache
+C:\VS code\w3scool\obj\Debug\netcoreapp3.1\w3scool.dll
+C:\VS code\w3scool\obj\Debug\netcoreapp3.1\w3scool.pdb
+C:\VS code\w3scool\obj\Debug\netcoreapp3.1\w3scool.genruntimeconfig.cache
