@@ -6,7 +6,7 @@ namespace aula04___intro_collections
     {
         static void Main(string[] args)
         {
-            int[] nums = new int[1000];
+            int[] nums = new int[100];
             Stopwatch sw = new Stopwatch();
             sw.Start();
             BuildArray(nums);
