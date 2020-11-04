@@ -11,6 +11,7 @@ public class JogoForca
     ArrayList chutesCertos;
     ArrayList chutesErrados;
     const int maxErros = 5;
+    
     //Metodos
     public JogoForca()
     {
