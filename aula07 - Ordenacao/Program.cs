@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace aula07___Ordenacao
+
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        int[] vetor = new int[] {1,5,6,45,0,-1,12};
+        Ordenador order = new Ordenador();
+        order.Bubblesort(vetor);
+        order.PrintVetor(vetor);
     }
 }
+
