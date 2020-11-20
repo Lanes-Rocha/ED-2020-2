@@ -19,6 +19,23 @@ public class Ordenador
             }
         }
     }
+    public void SeletionSort(int[] vetor)
+    {
+        for (int i = 0; i < vetor.Length; i++)
+        {
+            int menorIndice = i;
+            for (int j = i+1; j < vetor.Length; j++)
+            {
+                if(vetor[j] < vetor[menorIndice])
+                {
+                    menorIndice = j;
+                }
+            }
+            int aux = vetor[i];
+            vetor[i]= vetor[menorIndice];
+            vetor[menorIndice] = aux;
+        }
+    }
     public void PrintVetor(int[] vetor)
     {
         for (int i = 0; i < vetor.Length; i++)
