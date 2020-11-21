@@ -19,6 +19,21 @@ public class Ordenador
             }
         }
     }
+     public void Bubblesortv2(int[] vetor)
+    {
+        for (int j = 0; j < vetor.Length; j++)
+        {
+            for (int i = 0; i < vetor.Length - 1 - j; i++)
+            {
+                if(vetor[i] > vetor[i+1])
+                {
+                    int aux = vetor[i];
+                    vetor[i] = vetor[i+1];
+                    vetor[i+1] = aux;
+                }  
+            }
+        }
+    }
     public void SeletionSort(int[] vetor)
     {
         for (int i = 0; i < vetor.Length; i++)
