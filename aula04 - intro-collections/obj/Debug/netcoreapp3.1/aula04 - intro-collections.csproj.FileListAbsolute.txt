@@ -1,0 +1,13 @@
+C:\VS code\aula04 - intro-collections\bin\Debug\netcoreapp3.1\aula04 - intro-collections.exe
+C:\VS code\aula04 - intro-collections\bin\Debug\netcoreapp3.1\aula04 - intro-collections.deps.json
+C:\VS code\aula04 - intro-collections\bin\Debug\netcoreapp3.1\aula04 - intro-collections.runtimeconfig.json
+C:\VS code\aula04 - intro-collections\bin\Debug\netcoreapp3.1\aula04 - intro-collections.runtimeconfig.dev.json
+C:\VS code\aula04 - intro-collections\bin\Debug\netcoreapp3.1\aula04 - intro-collections.dll
+C:\VS code\aula04 - intro-collections\bin\Debug\netcoreapp3.1\aula04 - intro-collections.pdb
+C:\VS code\aula04 - intro-collections\obj\Debug\netcoreapp3.1\aula04 - intro-collections.csprojAssemblyReference.cache
+C:\VS code\aula04 - intro-collections\obj\Debug\netcoreapp3.1\aula04 - intro-collections.AssemblyInfoInputs.cache
+C:\VS code\aula04 - intro-collections\obj\Debug\netcoreapp3.1\aula04 - intro-collections.AssemblyInfo.cs
+C:\VS code\aula04 - intro-collections\obj\Debug\netcoreapp3.1\aula04 - intro-collections.csproj.CoreCompileInputs.cache
+C:\VS code\aula04 - intro-collections\obj\Debug\netcoreapp3.1\aula04 - intro-collections.dll
+C:\VS code\aula04 - intro-collections\obj\Debug\netcoreapp3.1\aula04 - intro-collections.pdb
+C:\VS code\aula04 - intro-collections\obj\Debug\netcoreapp3.1\aula04 - intro-collections.genruntimeconfig.cache

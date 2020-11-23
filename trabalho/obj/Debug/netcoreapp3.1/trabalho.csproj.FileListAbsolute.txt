@@ -11,3 +11,16 @@ C:\VS CODE\trabalho\obj\Debug\netcoreapp3.1\trabalho.csproj.CoreCompileInputs.ca
 C:\VS CODE\trabalho\obj\Debug\netcoreapp3.1\trabalho.dll
 C:\VS CODE\trabalho\obj\Debug\netcoreapp3.1\trabalho.pdb
 C:\VS CODE\trabalho\obj\Debug\netcoreapp3.1\trabalho.genruntimeconfig.cache
+C:\VS code\trabalho\trabalho\bin\Debug\netcoreapp3.1\trabalho.exe
+C:\VS code\trabalho\trabalho\bin\Debug\netcoreapp3.1\trabalho.deps.json
+C:\VS code\trabalho\trabalho\bin\Debug\netcoreapp3.1\trabalho.runtimeconfig.json
+C:\VS code\trabalho\trabalho\bin\Debug\netcoreapp3.1\trabalho.runtimeconfig.dev.json
+C:\VS code\trabalho\trabalho\bin\Debug\netcoreapp3.1\trabalho.dll
+C:\VS code\trabalho\trabalho\bin\Debug\netcoreapp3.1\trabalho.pdb
+C:\VS code\trabalho\trabalho\obj\Debug\netcoreapp3.1\trabalho.csprojAssemblyReference.cache
+C:\VS code\trabalho\trabalho\obj\Debug\netcoreapp3.1\trabalho.AssemblyInfoInputs.cache
+C:\VS code\trabalho\trabalho\obj\Debug\netcoreapp3.1\trabalho.AssemblyInfo.cs
+C:\VS code\trabalho\trabalho\obj\Debug\netcoreapp3.1\trabalho.csproj.CoreCompileInputs.cache
+C:\VS code\trabalho\trabalho\obj\Debug\netcoreapp3.1\trabalho.dll
+C:\VS code\trabalho\trabalho\obj\Debug\netcoreapp3.1\trabalho.pdb
+C:\VS code\trabalho\trabalho\obj\Debug\netcoreapp3.1\trabalho.genruntimeconfig.cache

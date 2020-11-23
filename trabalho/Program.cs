@@ -23,7 +23,7 @@ namespace trabalho
                 Console.WriteLine("Opcao: ");
                 menu = Convert.ToInt32(Console.ReadLine());
                 Console.Clear();
-                if (menu == 1)
+                if (menu == 1)//adicionar
                 {
                     string nome, telefone, email;
 
@@ -40,7 +40,7 @@ namespace trabalho
 
                     list.Add(new Contato(nome, telefone, email));
                 }
-                else if (menu == 2)
+                else if (menu == 2)//remover
                 {
                     string email;
                     Console.WriteLine("Digite um email: ");
@@ -56,7 +56,7 @@ namespace trabalho
                         Console.WriteLine("O contato não foi deletado.");
                     }
                 }
-                else if (menu == 3)
+                else if (menu == 3)//atualizar
                 {
                     string email;
                     Console.WriteLine("Digite o email: ");
@@ -86,7 +86,7 @@ namespace trabalho
                         Console.WriteLine("O arquivo não foi carregado");
                     }
                 }
-                else if (menu == 4)
+                else if (menu == 4)//recuperar
                 {
                     Console.WriteLine("Recuperando do arquivo...");
 
@@ -99,7 +99,7 @@ namespace trabalho
                         Console.WriteLine("O arquivo não foi carregado.");
                     }
                 }
-                else if (menu == 5)
+                else if (menu == 5)//ordenar
                 {
                     int sortOption;
 
@@ -119,12 +119,12 @@ namespace trabalho
                     }
                     Console.Clear();
                 }
-                else if (menu == 6)
+                else if (menu == 6)//listar
                 {
                     Console.WriteLine("Listando Contatos:");
                     list.Print();
                 }
-                else if (menu == 7)
+                else if (menu == 7)//salvar
                 {
                     Console.WriteLine("Salvando o arquivo...");
 
@@ -138,7 +138,7 @@ namespace trabalho
                     }
 
                 }
-                else if (menu == 8)
+                else if (menu == 8)//navegar
                 {
                     if (list.head == null)
                     {

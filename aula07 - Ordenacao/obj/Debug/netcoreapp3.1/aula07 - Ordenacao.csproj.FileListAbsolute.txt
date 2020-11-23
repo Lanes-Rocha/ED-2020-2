@@ -1,0 +1,13 @@
+C:\VS code\aula07 - Ordenacao\obj\Debug\netcoreapp3.1\aula07 - Ordenacao.csprojAssemblyReference.cache
+C:\VS code\aula07 - Ordenacao\obj\Debug\netcoreapp3.1\aula07 - Ordenacao.AssemblyInfoInputs.cache
+C:\VS code\aula07 - Ordenacao\obj\Debug\netcoreapp3.1\aula07 - Ordenacao.AssemblyInfo.cs
+C:\VS code\aula07 - Ordenacao\obj\Debug\netcoreapp3.1\aula07 - Ordenacao.csproj.CoreCompileInputs.cache
+C:\VS code\aula07 - Ordenacao\bin\Debug\netcoreapp3.1\aula07 - Ordenacao.exe
+C:\VS code\aula07 - Ordenacao\bin\Debug\netcoreapp3.1\aula07 - Ordenacao.deps.json
+C:\VS code\aula07 - Ordenacao\bin\Debug\netcoreapp3.1\aula07 - Ordenacao.runtimeconfig.json
+C:\VS code\aula07 - Ordenacao\bin\Debug\netcoreapp3.1\aula07 - Ordenacao.runtimeconfig.dev.json
+C:\VS code\aula07 - Ordenacao\bin\Debug\netcoreapp3.1\aula07 - Ordenacao.dll
+C:\VS code\aula07 - Ordenacao\bin\Debug\netcoreapp3.1\aula07 - Ordenacao.pdb
+C:\VS code\aula07 - Ordenacao\obj\Debug\netcoreapp3.1\aula07 - Ordenacao.dll
+C:\VS code\aula07 - Ordenacao\obj\Debug\netcoreapp3.1\aula07 - Ordenacao.pdb
+C:\VS code\aula07 - Ordenacao\obj\Debug\netcoreapp3.1\aula07 - Ordenacao.genruntimeconfig.cache
