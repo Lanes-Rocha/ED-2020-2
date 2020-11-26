@@ -15,6 +15,23 @@ public class LinkdList
        newNode.next = head;
        head = newNode;
    }
+   public void AddOrdered(int valor)//Método insere de forma ordenado
+   {
+       var newNode = new Node(valor);
+       Node aux = head;
+       if(head ==null || valor < head.data)//Trata lista vazia e menor valor da lista
+       {
+           newNode.next = head;
+           head = newNode;
+           return;
+       }
+       while ((aux.next != null) && (valor > aux.next.data))
+       {
+           aux = aux.next;
+       }      
+       newNode.next = aux.next;
+       aux.next = newNode;
+   }
    public Node Find(int valor)// Método para pesquisa
    {
        Node aux = head;
@@ -50,7 +67,7 @@ public class LinkdList
        }
        Node aux = head;
        Node ant = null;
-       while ((aux != null) && (aux.data != valor)
+       while ((aux != null) && (aux.data != valor))
        {
            ant = aux;
            aux = aux.next;
