@@ -15,6 +15,20 @@ public class LinkdList
        newNode.next = head;
        head = newNode;
    }
+   public Node Find(int valor)
+   {
+       Node aux = head;
+       while(aux != null && aux.data != valor)
+       {
+           aux = aux.next;
+       }
+       return aux;
+   }
+   public bool IsEmpty()
+   {
+      return head == null;
+   }
+
    public void Print()// Imprimindo a LikedList
    {
       Console.Write("[HEAD]");
