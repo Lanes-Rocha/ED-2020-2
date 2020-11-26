@@ -55,13 +55,14 @@ public class LinkdList
            ant = aux;
            aux = aux.next;
        }
-       if (ant == null)
+       if (ant == null)// removendo primeiro nó
        {
            head = aux.next;
-       }else
+       }else //Qualquer outro caso
        {
             ant.next = aux.next;
        }
+       //Nó é removido da MEM. by GC
    }
 
 }
