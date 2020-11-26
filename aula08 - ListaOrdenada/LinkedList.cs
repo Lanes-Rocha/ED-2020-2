@@ -15,15 +15,17 @@ public class LinkdList
        newNode.next = head;
        head = newNode;
    }
-   public void PrintList()// Imprimindo a LikedList
+   public void Print()// Imprimindo a LikedList
    {
+      Console.Write("[HEAD]");
       var aux = head;
+
       while (aux != null)
       {
          Console.Write($"-> [{aux.data}]");
          aux = aux.next;
       }
-      Console.Write("-> [end]");
+      Console.Write("-> [NULL]");
       
    }
 
