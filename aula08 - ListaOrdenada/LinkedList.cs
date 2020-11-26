@@ -9,13 +9,13 @@ public class LinkdList
    {
        head = null;
    }
-   public void Add(int valor)// Adicionando valores na LinkedList
+   public void Add(int valor)// Método para adicionar valores na LinkedList
    {
        var newNode = new Node(valor);
        newNode.next = head;
        head = newNode;
    }
-   public Node Find(int valor)
+   public Node Find(int valor)// Método para pesquisa
    {
        Node aux = head;
        while(aux != null && aux.data != valor)
@@ -24,12 +24,12 @@ public class LinkdList
        }
        return aux;
    }
-   public bool IsEmpty()
+   public bool IsEmpty() //Método retorna null caso o dado procurado não se ja encontrado
    {
-      return head == null;
+      return (head == null);
    }
 
-   public void Print()// Imprimindo a LikedList
+   public void Print()// Método Imprimindo a LikedList
    {
       Console.Write("[HEAD]");
       var aux = head;
@@ -41,6 +41,10 @@ public class LinkdList
       }
       Console.Write("-> [NULL]");
       
+   }
+   public void Remove(int valor)
+   {
+       
    }
 
 }

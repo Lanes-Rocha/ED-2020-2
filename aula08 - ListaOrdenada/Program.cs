@@ -15,7 +15,7 @@ class Program
         lista.Print();
         Console.WriteLine();
         Console.WriteLine();
-        Console.WriteLine(lista.Find(3));
+        Console.WriteLine($"Resultado -> [ {lista.Find(999999)} ]");
       
         
     }
