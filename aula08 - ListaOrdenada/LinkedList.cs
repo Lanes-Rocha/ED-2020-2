@@ -18,7 +18,7 @@ public class LinkdList
    public Node Find(int valor)// Método para pesquisa
    {
        Node aux = head;
-       while(aux != null && aux.data != valor)
+       while((aux != null) && (aux.data != valor))
        {
            aux = aux.next;
        }
@@ -44,7 +44,24 @@ public class LinkdList
    }
    public void Remove(int valor)
    {
-       
+       if(this.IsEmpty())
+       {
+           return;
+       }
+       Node aux = head;
+       Node ant = null;
+       while ((aux != null) && (aux.data != valor)
+       {
+           ant = aux;
+           aux = aux.next;
+       }
+       if (ant == null)
+       {
+           head = aux.next;
+       }else
+       {
+            ant.next = aux.next;
+       }
    }
 
 }
