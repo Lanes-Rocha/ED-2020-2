@@ -51,6 +51,19 @@ public class Ordenador
             vetor[menorIndice] = aux;
         }
     }
+    public void InsertonSort(int [] vetor)
+    {
+        for (int i = 1; i < vetor.Length; i++){
+            int aux = vetor[i];
+            int indice = i;
+            while (indice > 0 && aux < vetor[indice - 1])
+            {
+                vetor[indice] = vetor[indice - 1];
+                indice--;
+            }
+            vetor[indice] = aux;
+        }
+    }
     public void PrintVetor(int[] vetor)
     {
         for (int i = 0; i < vetor.Length; i++)

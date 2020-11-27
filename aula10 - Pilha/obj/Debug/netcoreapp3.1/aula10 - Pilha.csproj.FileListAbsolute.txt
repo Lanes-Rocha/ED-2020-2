@@ -1,0 +1,13 @@
+C:\VS CODE\aula10 - Pilha\bin\Debug\netcoreapp3.1\aula10 - Pilha.exe
+C:\VS CODE\aula10 - Pilha\bin\Debug\netcoreapp3.1\aula10 - Pilha.deps.json
+C:\VS CODE\aula10 - Pilha\bin\Debug\netcoreapp3.1\aula10 - Pilha.runtimeconfig.json
+C:\VS CODE\aula10 - Pilha\bin\Debug\netcoreapp3.1\aula10 - Pilha.runtimeconfig.dev.json
+C:\VS CODE\aula10 - Pilha\bin\Debug\netcoreapp3.1\aula10 - Pilha.dll
+C:\VS CODE\aula10 - Pilha\bin\Debug\netcoreapp3.1\aula10 - Pilha.pdb
+C:\VS CODE\aula10 - Pilha\obj\Debug\netcoreapp3.1\aula10 - Pilha.csprojAssemblyReference.cache
+C:\VS CODE\aula10 - Pilha\obj\Debug\netcoreapp3.1\aula10 - Pilha.AssemblyInfoInputs.cache
+C:\VS CODE\aula10 - Pilha\obj\Debug\netcoreapp3.1\aula10 - Pilha.AssemblyInfo.cs
+C:\VS CODE\aula10 - Pilha\obj\Debug\netcoreapp3.1\aula10 - Pilha.csproj.CoreCompileInputs.cache
+C:\VS CODE\aula10 - Pilha\obj\Debug\netcoreapp3.1\aula10 - Pilha.dll
+C:\VS CODE\aula10 - Pilha\obj\Debug\netcoreapp3.1\aula10 - Pilha.pdb
+C:\VS CODE\aula10 - Pilha\obj\Debug\netcoreapp3.1\aula10 - Pilha.genruntimeconfig.cache

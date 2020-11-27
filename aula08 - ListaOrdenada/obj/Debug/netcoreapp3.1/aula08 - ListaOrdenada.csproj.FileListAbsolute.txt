@@ -1,0 +1,13 @@
+C:\VS code\aula08 - ListaOrdenada\bin\Debug\netcoreapp3.1\aula08 - ListaOrdenada.exe
+C:\VS code\aula08 - ListaOrdenada\bin\Debug\netcoreapp3.1\aula08 - ListaOrdenada.deps.json
+C:\VS code\aula08 - ListaOrdenada\bin\Debug\netcoreapp3.1\aula08 - ListaOrdenada.runtimeconfig.json
+C:\VS code\aula08 - ListaOrdenada\bin\Debug\netcoreapp3.1\aula08 - ListaOrdenada.runtimeconfig.dev.json
+C:\VS code\aula08 - ListaOrdenada\bin\Debug\netcoreapp3.1\aula08 - ListaOrdenada.dll
+C:\VS code\aula08 - ListaOrdenada\bin\Debug\netcoreapp3.1\aula08 - ListaOrdenada.pdb
+C:\VS code\aula08 - ListaOrdenada\obj\Debug\netcoreapp3.1\aula08 - ListaOrdenada.csprojAssemblyReference.cache
+C:\VS code\aula08 - ListaOrdenada\obj\Debug\netcoreapp3.1\aula08 - ListaOrdenada.AssemblyInfoInputs.cache
+C:\VS code\aula08 - ListaOrdenada\obj\Debug\netcoreapp3.1\aula08 - ListaOrdenada.AssemblyInfo.cs
+C:\VS code\aula08 - ListaOrdenada\obj\Debug\netcoreapp3.1\aula08 - ListaOrdenada.csproj.CoreCompileInputs.cache
+C:\VS code\aula08 - ListaOrdenada\obj\Debug\netcoreapp3.1\aula08 - ListaOrdenada.dll
+C:\VS code\aula08 - ListaOrdenada\obj\Debug\netcoreapp3.1\aula08 - ListaOrdenada.pdb
+C:\VS code\aula08 - ListaOrdenada\obj\Debug\netcoreapp3.1\aula08 - ListaOrdenada.genruntimeconfig.cache
